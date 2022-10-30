@@ -11,7 +11,7 @@ import myEpicNft from "./utils/myEpicNft.json";
 const TWITTER_HANDLE = "web3_ish";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const OPENSEA_LINK = "https://testnets.opensea.io/ja/collection/squarenft-3g8wjgnxqi";
-const TOTAL_MINT_COUNT = 50;
+const TOTAL_MINT_COUNT = 10;
 
 // コトントラクトアドレスをCONTRACT_ADDRESS変数に格納
 const CONTRACT_ADDRESS = "0x968c0b01bd7241c3331e3902e259752956A41Da7";
